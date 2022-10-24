@@ -3,9 +3,10 @@ Stata, R, and Mplus syntax for "Socio-economic inequalities and trajectories of 
 
 The repository contains the Stata, R, and Mplus syntax to replicate all of the analyses from our publication
 
-There are four files:
+There are five files:
 
 1. 2022-10-23_do-file-stata-AHA-annotated_v01.do # This is the annotated Stata do file
 2. 2022-10-23_do-file-stata-AHA-annotated_v01.pdf # This is the annotated Stata do file in PDF format
-3. 
-4. 
+3. 2022-10-23_script-R-AHA-annotated_v01.R # This is the annotated R script
+4. 2022-10-23_script-R-AHA-annotated_v01.pdf # This is the annotated R script in PDF format
+5.
