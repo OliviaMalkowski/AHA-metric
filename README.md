@@ -9,4 +9,4 @@ There are five files:
 2. 2022-10-23_do-file-stata-AHA-annotated_v01.pdf # This is the annotated Stata do file in PDF format
 3. 2022-10-23_script-R-AHA-annotated_v01.R # This is the annotated R script
 4. 2022-10-23_script-R-AHA-annotated_v01.pdf # This is the annotated R script in PDF format
-5.
+5. 2022-10-23_Mplus-input-AHA-annotated_v01.docx # This is the annotated Mplus input file in Microsoft Word document format
