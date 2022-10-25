@@ -4,8 +4,9 @@ MLIRTdata<-read.csv(file.choose()) # Choose .csv file for MLIRT analyses
 View(MLIRTdata) # View data set
 # Change order of variables in the data set so that the participant ID and wave variables are in columns 1 and 2 and all items 
 # contributing to the metric are adjacent to one another
-MLIRTdata<-MLIRTdata[c(1,17,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,
-                       33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53)] 
+MLIRTdata<-MLIRTdata[c(1,17,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,
+                       25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,
+                       42,43,44,45,46,47,48,49,50,51,52,53)] 
 
 install.packages("sirt") # Install the package to run the MLIRT analysis
 library(sirt) # Load the library
